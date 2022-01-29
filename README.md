@@ -24,3 +24,12 @@ De vehículos.
 
 las cámaras son de circuito cerrado
 Y son de la alcaldía de Medellín.
+
+
+solo podemos ver las cámaras en vivo
+
+Ya si quieren utilizar reconocimiento facial
+
+Ya tendrías que utilizar
+Otra herramienta
+O un lenguaje como python.
